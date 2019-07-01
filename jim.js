@@ -20,3 +20,6 @@ module.exports.add      = add;
 module.exports.subtract = subtract;
 module.exports.multiply = multiply;
 module.exports.x        = x;
+
+
+module.exports.df = "jkkjhkj";
